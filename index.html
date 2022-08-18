@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,14 +9,23 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
-    <p id="musica">nada</p>
-    <img id="link"> 
-    <p id="autor">nada</p>
+    <p id="musica"></p>
+    <img id="img">
+    <p id="autor"></p>
+    <audio  id="audio" autoplay  >
+        <source type="audio/mpeg" id="audio">
+    </audio>
 
+    <button id="dismute">desmute</button>
+    <button id="mute">mute</button>
+
+    <script src="js/playlist.js"></script>
     <script type="module" src="js/radio.js"></script>
-    
+    <script src="js/button.js"></script>
+
 </body>
 
 </html>
