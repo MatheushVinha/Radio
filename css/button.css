@@ -1,0 +1,35 @@
+
+.button {
+    width: 37%;
+    margin: 0% auto 0px auto;
+}
+
+.button__template{
+    height: 110.5px;  
+}
+
+.play {
+    
+    background: url('../assets/play-button/play.svg');
+
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.button__dismute {
+    display: none;
+}
+
+.mute {
+    background: url('../assets/play-button/Play-pause.svg');
+
+    display: none;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.button__mute {
+    display: none;
+}

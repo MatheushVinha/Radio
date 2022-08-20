@@ -1,10 +1,17 @@
-#img {
-    width: 300px;
+body {
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
 }
 
-body {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1rem;
-    font-weight: bold;
+.blur__background {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
 }
+    
+.criado {
+    text-align: center;
+    margin-top: 13%;
+}
+

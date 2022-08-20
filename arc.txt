@@ -1,0 +1,157 @@
+
+hayloft_2: {
+        img: 'https://lastfm.freetls.fastly.net/i/u/500x500/830ed115b2b5dab45b1c41d50579a2d1.jpg',
+        autor: 'Mother Mother',
+        musica: 'hayloft 2',
+        song:,
+},
+
+Bones: {
+        img: 'https://i1.sndcdn.com/artworks-rq1oBBh5ElY7ejHo-cN1kwQ-t500x500.jpg',
+        autor: 'Imagine Dragons',
+        musica: 'Bones',
+        song:,
+},
+Enemy: {
+        img: 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/c17c09130636097.61842df3970ac.jpg',
+        autor: 'Imagine Dragons',
+        musica: 'Enemy',
+        song:,
+},
+Bohemian_Rhapsody: {
+        img: 'https://www.guarulhos.sp.gov.br/sites/default/files/field/image/Bohemian%20Rapsody.jpg',
+        autor: 'Queen',
+        musica: 'Bohemian Rhapsody',
+        song:,
+},
+I_Was_Made_For_Lovin_You: {
+        img: 'https://i.discogs.com/kWYsUc0RrHTmekiP-HTGNxngG6gXWBR9igPLgctG1CM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgz/Mi0xMjg0OTg5MzAx/LmpwZWc.jpeg',
+        autor: 'Kiss',
+        musica: 'I Was Made For Lovin' You',
+        song:,
+},
+Arctic_Monkeys_cinco: {
+        img: 'https://akamai.sscdn.co/uploadfile/letras/albuns/8/a/1/e/1076.jpg',
+        autor: 'Arctic Monkeys',
+        musica: '505',
+        song:,
+},
+Below_The_Surface: {
+        img: 'https://i.scdn.co/image/ab67616d0000b2731d79f81f6b934aea3546e546',
+        autor: 'Griffinilla',
+        musica: 'Below The Surface',
+        song:,
+},
+
+Minha_Vida_Ordinária: {
+        img: 'https://i.ytimg.com/vi/gtpAwaovPB4/hqdefault.jpg',
+        autor: 'The Living Tombstone',
+        musica: 'Minha Vida Ordinária',
+        song:,
+},
+Notion: {
+        img: 'https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08',
+        autor: ' The Rare Occasions',
+        musica: 'Notion',
+        song:,
+},
+Sweater_Weather: {
+        img: 'https://i.scdn.co/image/ab67616d0000b2737177fb5667cdafd34b871257',
+        autor: 'The Neighbourhood',
+        musica: 'Sweater Weather',
+        song:,
+},
+Somebody_That_I_Used_To_Know: {
+        img: 'https://housedistrictrecords.com/wp-content/uploads/2021/06/Cover-Festival-Mix-scaled.jpg',
+        autor: 'Gotye',
+        musica: 'Somebody That I Used To Know',
+        song:,
+},
+Dark_Red: {
+        img: 'https://i.scdn.co/image/ab67616d0000b273263886a4992c39704c601409',
+        autor: 'Steve Lacy',
+        musica: 'Dark Red',
+        song:,
+},
+Alien_Blues: {
+        img: 'https://i1.sndcdn.com/artworks-zO6yApRyBzTw8UxS-SCCOaw-t500x500.jpg',
+        autor: 'Vundabar',
+        musica: 'Alien Blues',
+        song:,
+},
+
+Get_Lucky: {
+        img: 'https://rollingstone.uol.com.br/media/_versions/legacy/2013/img-1013353-random-access-memories_widelg.jpg',
+        autor: 'Daft Punk',
+        musica: 'Get Lucky',
+        song:,
+},
+Buttercup: {
+        img: 'https://i1.sndcdn.com/artworks-I7Srr9FzdLn4kqni-dC7cPQ-t500x500.jpg',
+        autor: 'Jack Stauber ',
+        musica: 'Buttercup',
+        song:,
+},
+
+O_Grilo: {
+        img: 'https://i1.sndcdn.com/artworks-ADJYRbEOkVzL-0-t500x500.jpg',
+        autor: 'Serenata Existencialista',
+        musica: 'O Grilo',
+        song:,
+},
+
+Without_Me: {
+        img: 'https://lastfm.freetls.fastly.net/i/u/770x0/e77a6d196e8a447c8166b86bf1fbd095.jpg',
+        autor: 'Eminem ',
+        musica: 'Without Me',
+        song:,
+},
+Breezeblocks: {
+        img: 'https://lastfm.freetls.fastly.net/i/u/500x500/edf35e0664db4941a804c150e211900b.jpg',
+        autor: 'Take a Slice - Glass Animals',
+        musica: 'Breezeblocks',
+        song:,
+},
+My_Alcoholic_Friends: {
+        img: 'https://i1.sndcdn.com/artworks-RQtH6arYuy7r-0-t500x500.jpg',
+        autor: 'The Dresden Dolls',
+        musica: 'My Alcoholic Friends',
+        song:,
+},
+Murder_In_My_Mind: {
+        img: 'https://cdns-images.dzcdn.net/images/cover/63390e141158f4cfd0b30b86040a0218/500x500.jpg',
+        autor: 'Kordhell',
+        musica: 'Murder In My Mind',
+        song:,
+},
+
+Industry_Baby: {
+        img: 'https://upload.wikimedia.org/wikipedia/pt/thumb/b/b9/Industry_Baby_-_Lil_Nas_X_%26_Jack_Harlow.png/220px-Industry_Baby_-_Lil_Nas_X_%26_Jack_Harlow.png',
+        autor: 'Lil Nas',
+        musica: 'Industry Baby',
+        song:,
+},
+Bezos: {
+        img: 'https://i.ytimg.com/vi/iMNk3zHNYjQ/sddefault.jpg',
+        autor: 'Gimme Gimme Gimme',
+        musica: 'Bezos ',
+        song:,
+},
+fashion_week : {
+        img: 'https://i.scdn.co/image/ab67616d0000b273231ee874c725a8cd0b76be29',
+        autor: 'blackbear ',
+        musica: 'fashion week',
+        song:,
+},
+Call_Me_By_Your_Name: {
+        img: 'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/c8/bc/07/c8bc0752-4a89-7e85-348d-6a8d9e59d8be/886449252510.jpg/1200x1200bf-60.jpg',
+        autor: 'Lil Nas X',
+        musica: 'Call Me By Your Name',
+        song:,
+},
+Sahara: {
+        img: 'https://i.scdn.co/image/ab67616d0000b27383bd1e120f8b14407fe73816',
+        autor: 'Hensonn',
+        musica: 'Sahara ',
+        song:,
+},
