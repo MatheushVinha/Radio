@@ -1,10 +1,76 @@
-#img {
-    width: 300px;
+body {
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
 }
 
-body {
+.blur__background {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+}
+
+.image__conteiner {
+    width: 78%;
+    margin: 0 auto;
+    filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.35));
+}
+
+.music__image {
+    width: 100%;
+}
+
+.text__base {
+    color: #fdfdfd;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    line-height: 28px;
+    letter-spacing: 0.055em;
+}
+
+.music__name {
+    font-size: 2rem;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1rem;
-    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0%;
+    padding: 15.5% 1px 30px 1px;
+}
+
+.music__altor {
+    font-size: 22px;
+    text-align: left;
+
+    padding-left: 14px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 4% 0px 0px 0px;
+}
+
+.button__template{
+    width: 137px;
+    height: 137.5px;
+    margin: 0% auto 0px auto;
+}
+
+.play {
+    background: url('../assets/play-button/play.svg');
+}
+
+.mute {
+    background: url('../assets/play-button/Play-pause.svg');
+    display: none;
+}
+
+.criado {
+    text-align: center;
+    margin-top: 13%;
+}
+
+.button__dismute {
+    display: none;
+}
+
+.button__mute {
+    display: none;
 }

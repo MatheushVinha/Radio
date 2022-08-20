@@ -8,22 +8,48 @@
     <title>Radio</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
+    <div class="blur__background">
 
-    <p id="musica"></p>
-    <img id="img">
-    <p id="autor"></p>
-    <audio  id="audio" autoplay  >
-        <source type="audio/mpeg" id="audio">
-    </audio>
+    </div>
+    <div class="conteiner">
 
-    <button id="dismute">desmute</button>
-    <button id="mute">mute</button>
+        <p id="musica" class="music__name  text__base"></p>
+
+        <div class="image__conteiner">
+            <img id="img" class="music__image">
+        </div>
+
+        <p id="autor" class="music__altor text__base"></p>
+
+        <audio id="audio">
+            <source type="audio/mpeg" id="audio">
+        </audio>
+
+        <div class="button__template play" id="mute"></div>
+
+        <div class="button__template mute" id="play"></div>
+
+
+        <button id="dismute" class="button__dismute">desmute</button>
+        <button id="mute" class="button__mute">mute</button>
+
+    </div>
+
+    <footer>
+        <p class="criado text__base">by Matheus</p>
+    </footer>
+
 
     <script src="js/playlist.js"></script>
-    <script type="module" src="js/radio.js"></script>
+    <script src="js/radio.js"></script>
     <script src="js/button.js"></script>
 
 </body>
