@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Radio</title>
-    
+
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,13 +14,20 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
+
     <link rel="stylesheet" href="css/button.css">
     <link rel="stylesheet" href="css/imagem.css">
     <link rel="stylesheet" href="css/text.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
+
 </head>
 
 <body>
+
     <div class="blur__background"></div>
 
     <div class="conteiner">
@@ -45,6 +52,39 @@
     <footer>
         <p class="criado text__base">by Matheus</p>
     </footer>
+
+    <div class="blur__background">
+
+    </div>
+    <div class="conteiner">
+
+        <p id="musica" class="music__name  text__base"></p>
+
+        <div class="image__conteiner">
+            <img id="img" class="music__image">
+        </div>
+
+        <p id="autor" class="music__altor text__base"></p>
+
+        <audio id="audio">
+            <source type="audio/mpeg" id="audio">
+        </audio>
+
+        <div class="button__template play" id="mute"></div>
+
+        <div class="button__template mute" id="play"></div>
+
+
+        <button id="dismute" class="button__dismute">desmute</button>
+        <button id="mute" class="button__mute">mute</button>
+
+    </div>
+
+    <footer>
+        <p class="criado text__base">by Matheus</p>
+    </footer>
+
+
 
     <script src="js/playlist.js"></script>
     <script src="js/radio.js"></script>
