@@ -1,4 +1,3 @@
-
 function radio(playlist) {
 
     var img = document.querySelector('#img');
@@ -10,7 +9,6 @@ function radio(playlist) {
     function start() {
 
         var musicas = {
-        
             lista__musica: playlist.musicas_nome.Musica__lista,
     
             idMusica(lista) {
@@ -34,11 +32,9 @@ function radio(playlist) {
 
     }
     start()
-
     audio.addEventListener('ended', () => {     
         start()
         const audio = document.querySelector('#audio').play()
     })
 }
-
 radio(playlist)

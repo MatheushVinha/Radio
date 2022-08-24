@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Radio</title>
+    
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,18 +21,16 @@
 </head>
 
 <body>
-    <div class="blur__background">
+    <div class="blur__background"></div>
 
-    </div>
     <div class="conteiner">
-
-        <p id="musica" class="music__name  text__base"></p>
+        <p class="music__name  text__base" id="musica"></p>
 
         <div class="image__conteiner">
-            <img id="img" class="music__image">
+            <img class="music__image" id="img">
         </div>
 
-        <p id="autor" class="music__altor text__base"></p>
+        <p class="music__altor text__base" id="autor"></p>
 
         <audio id="audio">
             <source type="audio/mpeg" id="audio">
@@ -39,21 +38,16 @@
 
         <div class="button_conteiner">
             <div class="button play" id="mute"></div>
-    
             <div class="button mute" id="play"></div>
         </div>
-
     </div>
 
     <footer>
         <p class="criado text__base">by Matheus</p>
     </footer>
 
-
     <script src="js/playlist.js"></script>
     <script src="js/radio.js"></script>
     <script src="js/button.js"></script>
-
 </body>
-
 </html>
