@@ -20,7 +20,6 @@ function radio(playlist) {
         }
         
         var musica__atual = musicas.idMusica(musicas.lista__musica)
-        console.log(musica__atual)
         autor.textContent = playlist[musica__atual].autor;
         musica.textContent = playlist[musica__atual].musica;
         audio.setAttribute('src', playlist[musica__atual].song);

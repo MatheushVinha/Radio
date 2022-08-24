@@ -1,35 +1,30 @@
-
-.button {
-    width: 37%;
+.button_conteiner {
+    width: 125;
+    height: 125px;
     margin: 0% auto 0px auto;
+    
 }
 
-.button__template{
-    height: 110.5px;  
+.button{
+    width: 137px;
+    height: 137.5px;
+    margin: 0% auto 0px auto;   
 }
 
 .play {
-    
     background: url('../assets/play-button/play.svg');
-
-    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-}
-
-.button__dismute {
-    display: none;
+    background-position: center;
 }
 
 .mute {
     background: url('../assets/play-button/Play-pause.svg');
-
     display: none;
-    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
+    
+
 }
 
-.button__mute {
-    display: none;
-}

@@ -2,6 +2,11 @@ body {
     overflow: hidden;
     font-family: 'Roboto', sans-serif;
 }
+.conteiner {
+    width: 90%;
+    margin: 0 auto;
+}
+
 
 .blur__background {
     width: 100vw;
@@ -9,9 +14,3 @@ body {
     position: absolute;
     z-index: -1;
 }
-    
-.criado {
-    text-align: center;
-    margin-top: 13%;
-}
-
